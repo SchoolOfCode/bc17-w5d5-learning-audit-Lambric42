@@ -39,8 +39,8 @@
     - number 🟢
     - string - letters🟢
     - boolean - true false🟢
-    - undefined 🟢
-    - null 🟢
+    - undefined - unexpected empty🟢
+    - null - intended empty🟢
     - array [] index positions 0 onwards, organised🟢
     - object {} json etc🟢
     - symbol not used 🟠
